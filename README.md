@@ -102,7 +102,10 @@ If the user reduces load during the warning period, the cutoff is cancelled.
 
 - Circuit Diagram  
 - Hardware Setup  
-- LCD Output / Web Dashboard  
+- LCD Output / Web Dashboard
+
+  ## Code Structure
+  -'code/main.ino'-ESP32 Ardinuo IDE Code
 
 ## ▶️ How to Run
 
