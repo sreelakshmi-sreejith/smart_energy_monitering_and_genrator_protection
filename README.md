@@ -96,14 +96,6 @@ If the user reduces load during the warning period, the cutoff is cancelled.
 - Stable operation in both normal and generator modes  
 - Efficient load management across multiple users  
 
-## 📷 Project Demonstration
-
-> (Add images here)
-
-- Circuit Diagram  
-- Hardware Setup  
-- LCD Output / Web Dashboard
-
   ## Code Structure
   -'code/main.ino'-ESP32 Ardinuo IDE Code
 
